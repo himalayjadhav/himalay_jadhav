@@ -1,0 +1,68 @@
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
+
+
+ <div id="services">
+        <div class="container">
+            <h1 class="sub-title">My Services</h1>
+            <div class="services-list">
+                <div>
+                    <i class="fa-solid fa-code"></i>
+                    <h2>Front-End Technologies</h2>
+                    <div class="skill-item">
+                        <ul>
+                            <li>HTML5</li>
+                            <li>CSS</li>
+                            <li>JAVASCRIPT</li>
+                            <li>BOOTSTRAP</li>
+                            <li>REACT</li>
+                        </ul>
+                    </div>
+                </div>
+                <div>
+                    <i class="fa-solid fa-wand-magic-sparkles"></i>
+                    <h2>Back-End Technologies</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio, error. Labore adipisci
+                        repudiandae ab nemo, perferendis, temporibus laudantium sapiente necessitatibus ipsa magnam
+                        tenetur obcaecati nesciunt accusantium, ratione tempora quae non.</p>
+                    <a href="#">learn more</a>
+                </div>
+                <div>
+                    <i class="fa-brands fa-apple-pay"></i>
+                    <h2>Frameworks & Libraries</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio, error. Labore adipisci
+                        repudiandae ab nemo, perferendis, temporibus laudantium sapiente necessitatibus ipsa magnam
+                        tenetur obcaecati nesciunt accusantium, ratione tempora quae non.</p>
+                    <a href="#">learn more</a>
+                </div>
+                <div>
+                    <i class="fa-brands fa-apple-pay"></i>
+                    <h2>Tools & Technologies</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio, error. Labore adipisci
+                        repudiandae ab nemo, perferendis, temporibus laudantium sapiente necessitatibus ipsa magnam
+                        tenetur obcaecati nesciunt accusantium, ratione tempora quae non.</p>
+                    <a href="#">learn more</a>
+                </div>
+                <div>
+                    <i class="fa-brands fa-apple-pay"></i>
+                    <h2>Database Technologies</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio, error. Labore adipisci
+                        repudiandae ab nemo, perferendis, temporibus laudantium sapiente necessitatibus ipsa magnam
+                        tenetur obcaecati nesciunt accusantium, ratione tempora quae non.</p>
+                    <a href="#">learn more</a>
+                </div>
+                <div>
+                    <i class="fa-brands fa-apple-pay"></i>
+                    <h2>Familier With</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio, error. Labore adipisci
+                        repudiandae ab nemo, perferendis, temporibus laudantium sapiente necessitatibus ipsa magnam
+                        tenetur obcaecati nesciunt accusantium, ratione tempora quae non.</p>
+                    <a href="#">learn more</a>
+                </div>
+                
+            </div>
+
+        </div>
+    </div> 
