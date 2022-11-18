@@ -36,7 +36,7 @@ nav {
     justify-content: space-between;
     flex-wrap: wrap;
     /* background-color: brown; */
-    /* position: sticky; */
+    /* position: fixed; */
     top: 0;
     z-index: 99;
 
@@ -603,6 +603,7 @@ form .btn2 {
 nav .fa-solid {
     display: none;
 }
+
 
 @media only screen and (max-width: 600px) {
     #header {
